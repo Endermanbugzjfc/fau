@@ -18,4 +18,4 @@ requires "chroma == 0.2.5"
 requires "stb_image == 2.5"
 
 requires "vmath == 1.1.4"
-requires "https://github.com/Endermanbugzjfc/fau#2a7d897fa0b021523ea76f6b794a12e6a7c02c5c"
+requires "https://github.com/Endermanbugzjfc/pixie#2a7d897fa0b021523ea76f6b794a12e6a7c02c5c"
