@@ -12,7 +12,7 @@ requires "https://github.com/Anuken/glfm#be73f6862533c4cccedfac512d7766c8a30f312
 requires "https://github.com/Anuken/nimsoloud#c74878dcb60fd2e2af84f894a8a8ffe901aecd51"
 requires "https://github.com/Anuken/polymorph#170f1b22c1d13828ad9ef84237b9d4d408b77cc6"
 requires "cligen == 1.6.17"
-requires "chroma == 1.0.0"
+requires "chroma == 0.2.7"
 requires "pixie == 5.0.6"
 requires "vmath == 2.0.0"
 requires "stbimage == 2.5"
