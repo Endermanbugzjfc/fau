@@ -7,9 +7,9 @@ bin           = @["fau/tools/faupack"]
 binDir        = "build"
 
 requires "nim >= 2.0.0"
-requires "https://github.com/Anuken/staticglfw#d9636c0a565680044d187bee7b53bb4eaf4385b9"
+requires "https://github.com/Anuken/staticglfw#28f27b2c4bff0e21084e820dae368addb6ea5236"
 requires "https://github.com/Anuken/glfm#be73f6862533c4cccedfac512d7766c8a30f3122"
-requires "https://github.com/Anuken/nimsoloud#c74878dcb60fd2e2af84f894a8a8ffe901aecd51"
+requires "https://github.com/Anuken/nimsoloud#aa3070b314cf4d1a8675d4893f317875d4e701dc"
 requires "https://github.com/Anuken/polymorph#170f1b22c1d13828ad9ef84237b9d4d408b77cc6"
 requires "cligen == 1.6.17"
 requires "chroma == 0.2.7"
