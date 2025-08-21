@@ -1,0 +1,132 @@
+{
+  "depends": [
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/yvqanpy45j7vvcnrgy1lrnyb0alnhg35-source",
+      "rev": "d30a512379330550c3c2255f32727aa2e8edcd81",
+      "sha256": "058q4q2c2q5fw9949q4vksxj116m152rph8sdfx7lcr2ajr1m36l",
+      "url": "https://github.com/Anuken/staticglfw/archive/d30a512379330550c3c2255f32727aa2e8edcd81.tar.gz",
+      "packages": [
+        "staticglfw"
+      ],
+      "srcDir": "src"
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/71nk2pf5711fpbkjni78r02m495lfgra-source",
+      "rev": "2a7d897fa0b021523ea76f6b794a12e6a7c02c5c",
+      "sha256": "1n3ggl9h7vpgdl1fz8g66ymsv1rrnlzd8j27xf8nal82k8jfvvpl",
+      "url": "https://github.com/Endermanbugzjfc/pixie/archive/2a7d897fa0b021523ea76f6b794a12e6a7c02c5c.tar.gz",
+      "packages": [
+        "pixie"
+      ],
+      "srcDir": "src"
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/7dly89kba9s2ik8cxiicsxzc3jqnlz2h-source",
+      "rev": "ba5f45286bfa9bed93d8d6b941949cd6218ec888",
+      "sha256": "13csi17rpaclvm7ji3rw1hcbb1z6x5270819nabinfw1x59al5yz",
+      "url": "https://github.com/define-private-public/stb_image-Nim/archive/ba5f45286bfa9bed93d8d6b941949cd6218ec888.tar.gz",
+      "packages": [
+        "stb_image"
+      ],
+      "srcDir": ""
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/fahrda7s5h7nw5nla0rhlm14vnz3nl7k-source",
+      "rev": "987eb0d2270e998f9db317840e3f3608527274ee",
+      "sha256": "0ihx7y0yny7ziq56mczzhkyjvkpgr4rbzfw7qqn2kizahv0y7wv3",
+      "url": "https://github.com/Endermanbugzjfc/bumpy/archive/987eb0d2270e998f9db317840e3f3608527274ee.tar.gz",
+      "packages": [
+        "bumpy"
+      ],
+      "srcDir": "src"
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/q2bxb0p47x6gx5nv997zsy7sgr2yz84l-source",
+      "rev": "9044c27506f275ab29d1d15409f69e052f81759e",
+      "sha256": "160dgzkzv475l0ajfj1brsyz9zbfvnpg0hgyg4ywszfd64d0ida5",
+      "url": "https://github.com/rlipsc/polymorph/archive/9044c27506f275ab29d1d15409f69e052f81759e.tar.gz",
+      "ref": "v0.3.1^{}",
+      "packages": [
+        "polymorph"
+      ],
+      "srcDir": "src"
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/45gr1pq6ffhvgg3w02pl6skldpwkbzwx-source",
+      "rev": "b402e530ac6b6f680ba55ec4a03d169ac362c053",
+      "sha256": "140bp0j6zbrzhjhdinc8ic1clm76b0d0y2hxpn7jr4ghdbvi57jc",
+      "url": "https://github.com/c-blake/cligen/archive/b402e530ac6b6f680ba55ec4a03d169ac362c053.tar.gz",
+      "ref": "v1.5.9",
+      "packages": [
+        "cligen"
+      ],
+      "srcDir": ""
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/8yhjzi799183f471wfjrbfcinwhfg940-source",
+      "rev": "640f26142f47fea023a87bfd684a3fa770a785ae",
+      "sha256": "03wp5vm92rjmn8igjkvsjjpkvsvh26ls7px3j7h8lclsxnj4flza",
+      "url": "https://github.com/treeform/chroma/archive/640f26142f47fea023a87bfd684a3fa770a785ae.tar.gz",
+      "ref": "0.2.5",
+      "packages": [
+        "chroma"
+      ],
+      "srcDir": "src"
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/v0pqf0c4db80ymj0xwivgi806ymw9qra-source",
+      "rev": "1110b97fac745feb458aa44164e8456e2777c16d",
+      "sha256": "040mcxnmcm44rhnxpn56q653np3app3mgrzqfv2k8510awmr309n",
+      "url": "https://github.com/treeform/vmath/archive/1110b97fac745feb458aa44164e8456e2777c16d.tar.gz",
+      "ref": "1.1.4",
+      "packages": [
+        "vmath"
+      ],
+      "srcDir": "src"
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/6p3kcgnzq4byzk6p01538cxkx9rkh7ks-source",
+      "rev": "1112c71b4e215c1b52b607dec786af27ba55ce9f",
+      "sha256": "1fvxvjmq09lp3pqr0l7rivv9pwiksv4v9dj5jr66r15crjpm72i9",
+      "url": "https://github.com/guzba/zippy/archive/1112c71b4e215c1b52b607dec786af27ba55ce9f.tar.gz",
+      "ref": "0.8.1",
+      "packages": [
+        "zippy"
+      ],
+      "srcDir": "src"
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/0nj37jsv6fcm4pvp15inl5212lhsnqji-source",
+      "rev": "c87340c9a09fffc794f588c4a19b53c8d71cd6f6",
+      "sha256": "0wc1skj1j0b4wy5lw0dj7fslfb6q14j3ngyh17v030w9gdy1pbsc",
+      "url": "https://github.com/treeform/flatty/archive/c87340c9a09fffc794f588c4a19b53c8d71cd6f6.tar.gz",
+      "ref": "0.2.4",
+      "packages": [
+        "flatty"
+      ],
+      "srcDir": "src"
+    },
+    {
+      "method": "fetchzip",
+      "path": "/nix/store/yw2i5p4sz20z6jxhp1x4ii5h2kphai33-source",
+      "rev": "79e0bb05eb552a7aec229d3ab8a653f11e32d44a",
+      "sha256": "0sicr517nlzn1b6vm5bzak2sak89pfw60jyq6w9a69s055zvb7lj",
+      "url": "https://github.com/guzba/nimsimd/archive/79e0bb05eb552a7aec229d3ab8a653f11e32d44a.tar.gz",
+      "ref": "1.0.0",
+      "packages": [
+        "nimsimd"
+      ],
+      "srcDir": "src"
+    }
+  ]
+}
